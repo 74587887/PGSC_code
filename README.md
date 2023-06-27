@@ -15,7 +15,7 @@ Published in Pattern Recognition <br/>
 
 ### Citations
 
-If you find our code useful, please kindly consider to cite one of our papers as:
+If you find our code useful, please kindly consider to cite our papers as:
 
 ```
 @article{wu2023pure,
